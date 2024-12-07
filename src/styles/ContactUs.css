@@ -1,0 +1,51 @@
+.contact-us {
+    background-color: #f0f8ff; 
+    padding: 40px 20px; 
+    text-align: center; 
+}
+
+.contact-us h2 {
+    color: #007BFF; 
+    margin-bottom: 20px; 
+}
+
+.contact-us p {
+    margin-bottom: 30px; 
+    color: #333; 
+}
+
+.contact-info {
+    display: flex; 
+    justify-content: center; 
+    flex-wrap: wrap; 
+}
+
+.info-item {
+    background-color: white; 
+    border: 1px solid #007BFF; 
+    border-radius: 10px; 
+    padding: 20px; 
+    margin: 10px; 
+    width: 250px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+    text-align: left; 
+}
+
+.info-item i {
+    font-size: 24px; 
+    color: #007BFF; 
+    margin-right: 10px; 
+}
+
+.info-item h4 {
+    margin: 10px 0 5px; 
+    color: #007BFF; 
+}
+
+.info-item p {
+    margin: 0; 
+    color: #333; 
+}
+.margin-bottom {
+    margin-bottom: 100px; 
+}

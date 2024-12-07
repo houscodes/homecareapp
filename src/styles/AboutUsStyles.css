@@ -1,0 +1,36 @@
+.about-us {
+    display: flex;
+    flex-direction: column; 
+    padding: 40px;
+    background-color: #f0f8ff; 
+    text-align: left; 
+    margin-bottom: 10px; 
+
+}
+
+
+.about-title h2{
+    color: #007BFF; 
+    margin-bottom: 20px;
+}
+.about-text h4{
+    color: #007BFF; 
+}
+
+.about-content {
+    display: flex; 
+    align-items: center; 
+}
+
+.about-text{
+    width: 40%; 
+    padding-right: 10px; 
+    box-sizing: border-box; 
+}
+.about-image {
+    width: 60%; 
+    height: auto; 
+    max-height: 400px; 
+    object-fit: cover; 
+    border-radius: 15px; 
+}
